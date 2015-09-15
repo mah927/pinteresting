@@ -11,5 +11,6 @@
  *= import "bootstrap-sprockets";
  *= import "bootstrap";
  *= require_self
+ *= require 'masonry/transitions'
  *= require_tree .
  */
